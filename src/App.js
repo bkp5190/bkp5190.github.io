@@ -4,6 +4,8 @@ import Layout from './components/Layout';
 import Home from './components/Home'
 import About from './components/About';
 
+document.title = "Boney's Portfolio";
+
 function App() {
   return (
     <>
