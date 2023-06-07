@@ -93,6 +93,11 @@ nav {
       content: 'CONTACT'
     }
   }
+  a.project-link {
+    &:after {
+      content: 'PROJECTS'
+    }
+  }
   a.active {
     svg {
       color: #5FE88D;
